@@ -54,4 +54,4 @@ Whether you want to collaborate on some awesome projects, or just talk about tec
 ---
 
 ### 📊 **GitHub Stats**
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jetimworks&show_icons=true&theme=radical)](https://github.com/jetimworks)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuaetim&show_icons=true&theme=radical)](https://github.com/joshuaetim)
